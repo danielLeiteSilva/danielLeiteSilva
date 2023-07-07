@@ -1,2 +1,4 @@
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danielLeiteSilva&theme=radical&langs_count=8&layout=compact&card_width=250&heigth=250)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=danielLeiteSilva&theme=radical&&langs_count=8&layout=compact&card_width=250&heigth=250)
+<div>
+  <img heigth="180em" src="(https://github-readme-stats.vercel.app/api/top-langs/?username=danielLeiteSilva&theme=radical&langs_count=8&layout=compact">
+  <img heigth="180em" src="https://github-readme-stats.vercel.app/api?username=danielLeiteSilva&theme=radical&&langs_count=8&layout=compact">
+</div>
