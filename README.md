@@ -1,6 +1,6 @@
 <div>
-  <h1><strong>Olá, sou Daniel</strong></h1>
-  <p>Sou desenvolvedor Full Stack e atualmente trabalho na área de DevOps com integração de ferramentas e desenvolvimento de pipelines, com foco em CI/CD</p>
+  <h1><strong>Olá, sou Daniel 👋</strong></h1>
+  <p>Sou desenvolvedor Full Stack e atualmente trabalho na área de DevOps 💻 atuando na integração de ferramentas e desenvolvimento de pipelines, microsserviços, com foco em CI/CD</p>
   <br>
   <tr>
   <div>
@@ -21,7 +21,7 @@
   <img heigth="170em" src="https://github-readme-stats.vercel.app/api?username=danielLeiteSilva&theme=radical&&langs_count=8&layout=compact">
 </div>
 <br>
-<h1><strong>Tecnologias que utilizo em meus projetos</strong></h1>
+<h1><strong>💼 Skills</strong></h1>
 <tr>
 <div>
 <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
@@ -45,4 +45,5 @@
 <img heigth="180em" src="	https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white">
 <img heigth="180em" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">
 <img heigth="180em" src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white">
+<img heigth="180em" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
 </div>
