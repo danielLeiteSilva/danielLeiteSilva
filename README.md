@@ -1,6 +1,6 @@
 <div>
   <h1><strong>Olá, sou Daniel 👋</strong></h1>
-  <p>Sou desenvolvedor Full Stack e atualmente trabalho na área de DevOps 💻 atuando na integração de ferramentas e desenvolvimento de pipelines, microsserviços, com foco em CI/CD</p>
+  <p>Sou desenvolvedor Full Stack e atualmente trabalho na área de <strong>DEVOps</strong> 💻 atuando na integração de ferramentas e desenvolvimento de pipelines, microsserviços, com foco em <strong>CI/CD</strong></p>
   <br>
   <tr>
   <div>
