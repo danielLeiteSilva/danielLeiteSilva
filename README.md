@@ -8,6 +8,12 @@
      <a href="https://www.instagram.com/dan_si_leite">
       <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
      </a>
+    <a href="daniel199257@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+    </a>
+    <a href="https://www.kaggle.com/danielraquel">
+      <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white">
+    </a>
   </div>
   <img heigth="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielLeiteSilva&theme=radical&langs_count=8&layout=compact">
   <img heigth="170em" src="https://github-readme-stats.vercel.app/api?username=danielLeiteSilva&theme=radical&&langs_count=8&layout=compact">
